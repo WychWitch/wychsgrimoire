@@ -21,3 +21,7 @@ One piece of warning, **You cannot install themes or plugins using the cloned ob
 5. You have a clone of obsidian now! Launch the cloned program and open your vault!
 
 If you want to open up Obsidian URIs for that specific vault, follow the instructions in my other guide [[How to Make Obsidian URI Shortcuts for Obsidian on Android|here!]] The instructions are the same, only you select your cloned app and *not* the original app!
+
+## Screenshot
+
+![](https://i.imgur.com/fGt1PPe.jpg)
