@@ -1,8 +1,8 @@
 ---
 title: How to Have Two Obsidian Vaults open, and open Obsidian URIs in them.
-tags: 
+tags: how-to obsidian
 toc: false
-maturity: spring
+maturity: winter
 ---
 
 

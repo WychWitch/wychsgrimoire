@@ -2,10 +2,11 @@
 title: How to Make Obsidian URI Shortcuts for Obsidian on Android
 tags: how-to obsidian
 toc: false
-maturity: spring
+maturity: winter
 ---
 
 # How to Make Obsidian URI Shortcuts for Obsidian on Android
+
 
 This is my tutorial on how to make clickable shortcuts for Obsidian URIs (including advanced uri!)
 
